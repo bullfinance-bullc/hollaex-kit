@@ -12,6 +12,6 @@ Join us on the [Telegram](https://t.me/bullfinance_project).
 
 ## Useful Links
 
-- Exchange Dashboard: https://bullfinance.online
+- Main Website: https://bullfinance.online
 - Live Exchange: https://ex.bullfinance.online
 - Forum: https://forum.bullfinance.online
