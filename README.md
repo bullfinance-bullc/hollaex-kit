@@ -23,7 +23,7 @@ Check out [Plugins](https://github.com/bitholla/hollaex-kit/tree/2.0-develop/ser
 Check out [HollaEx CLI](https://github.com/bitholla/hollaex-cli) (Command Line Interface) for interacting and deploying your exchange.
 
 ## Community
-Join us on the [Forum](https://forum.hollaex.com) and [Discord](https://discord.gg/RkRHU8RbyM).
+Join us on the [Telegram](https://t.me/bullfinance_project).
 
 
 [![alt text][1.2]][1]
@@ -31,7 +31,7 @@ Join us on the [Forum](https://forum.hollaex.com) and [Discord](https://discord.
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 
-[1]: http://www.twitter.com/hollaex
+[1]: http://www.twitter.com/bfinancetoken
 
 <a href="https://github.com/bitholla/hollaex-kit/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=bitholla/hollaex-kit" />
@@ -40,9 +40,6 @@ Join us on the [Forum](https://forum.hollaex.com) and [Discord](https://discord.
 
 ## Useful Links
 
-- Exchange Dashboard: https://dash.hollaex.com
-- HollaEx Whitepaper: https://whitepaper.hollaex.com
-- HollaEx Live Exchange: https://pro.hollaex.com/trade/xht-usdt
-- Discord Community: https://discord.gg/RkRHU8RbyM
-- Forum: https://forum.hollaex.com
-- Docs: https://docs.hollaex.com
+- Exchange Dashboard: https://bullfinance.online
+- Live Exchange: https://ex.bullfinance.online
+- Forum: https://forum.bullfinance.online
